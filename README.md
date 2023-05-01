@@ -1,0 +1,1 @@
+# Temperatura_media_anual
